@@ -3,4 +3,6 @@
 
 [Audacity Project](https://nextcloud.bulme.at/index.php/s/QYkLLK9eMT9WGxQ)
 
-[Erste Session 20260408](https://nextcloud.bulme.at/index.php/s/wEEMnFnNWMtqY78)
+- [Bilder der Sessions auf moodle.bulme.at](https://nextcloud.bulme.at/index.php/s/wEEMnFnNWMtqY78)
+    - Erste Session 20260408 - Intro
+    - Zweite Session 20260416 - Werkstättenbilder
